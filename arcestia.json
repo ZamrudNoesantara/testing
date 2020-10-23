@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "Laurensius Jeffrey Chandra",
+    "label": "Human Right Activist. Globalist and Investor.",
+    "image": "https://avatars1.githubusercontent.com/u/7936962?s=460&u=41e34bb816ad09323e1650f3efc0bec4fb2bc5dd&v=4",
+    "summary": "I’m now just a trader and also an investor, who still like to code at free time.",
+    "website": "https://arcestia.com",
+    "email": "me@arcestia,com",
+    "email2": "vrusolik@gmail.com",
+    "location": {
+      "city": "Bangkok",
+      "countryCode": "TH"
+    },
+    "profiles": [
+      {
+        "username": "Lizsnowy",
+        "url": "https://twitter.com/Lizsnowy",
+        "network": "twitter"
+      },
+      {
+        "url": "https://github.com/arcestia",
+        "username": "arcestia",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "endDate": "2018-09-15",
+      "startDate": "2016-09-10",
+      "area": "System Information (incomplete)",
+      "studyType": "Bachelors",
+      "institution": "STMIK Harvest"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Trading"
+    },
+    {
+      "name": "Music"
+    },
+    {
+      "name": "Reading"
+    },
+    {
+      "name": "Film"
+    }
+  ]
+}
